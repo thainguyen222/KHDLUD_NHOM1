@@ -2,9 +2,9 @@ Thùng chứa này chứa các file của đồ án môn "Khoa học dữ liệu
 Thông tin các thành viên trong nhóm 
 | MSSV  | Họ tên  | Tài khoản github  |
 |:-----:|:-------:|:-----------------:|
-1612571|Trần Tiến Sỹ|AllenAlexander98|
-1612607|Nguyễn Quang Thái|thainguyen222|
-18120228|Huỳnh Nhựt Quang|huynhnhutquang7|
+1612571|Trần Tiến Sỹ|[AllenAlexander98](https://github.com/AllenAlexander98)|
+1612607|Nguyễn Quang Thái|[thainguyen222](https://github.com/thainguyen222)|
+18120228|Huỳnh Nhựt Quang|[huynhnhutquang7](https://github.com/huynhnhutquang7)|
 
 Trong đồ án này, nhóm tìm hiểu và cài đặt lại một [phương pháp giải quyết đã có](https://github.com/diefimov/west_nile_virus_2015) (đứng thứ 2) cho bài toán [West Nile Virus Prediction](https://www.kaggle.com/competitions/predict-west-nile-virus/) trên Kaggle. 
 Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link](https://colab.research.google.com/drive/184Qa_O-aZ6No5JQHq9CDOmeRHQ8EUnxC#scrollTo=pk6wgYYFG1bS) này 
