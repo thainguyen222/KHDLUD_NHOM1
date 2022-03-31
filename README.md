@@ -1,5 +1,5 @@
 | MSSV  | Họ tên  | Tài khoản github  |
 |:-----:|:-------:|:-----------------:|
-1712770|Trương Thị Lệ Thanh|thanhtruong1712|
-1712771|Bùi Thái Tấn Thành|thanhtan0501|
-1712778|Thống A Thảo|thaothong21|
+1612571|Trần Tiến Sỹ|AllenAlexander98|
+1612607|Nguyễn Quang Thái|thainguyen222|
+18120228|Huỳnh Nhựt Quang|huynhnhutquang7|
