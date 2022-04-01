@@ -7,7 +7,7 @@ Thông tin các thành viên trong nhóm
 18120228|Huỳnh Nhựt Quang|[huynhnhutquang7](https://github.com/huynhnhutquang7)|
 
 Trong đồ án này, nhóm tìm hiểu và cài đặt lại một [phương pháp giải quyết đã có](https://github.com/diefimov/west_nile_virus_2015) (đứng thứ 2) cho bài toán [West Nile Virus Prediction](https://www.kaggle.com/competitions/predict-west-nile-virus/) trên Kaggle. 
-Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link](https://colab.research.google.com/drive/184Qa_O-aZ6No5JQHq9CDOmeRHQ8EUnxC#scrollTo=pk6wgYYFG1bS) này 
+Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link](https://github.com/thainguyen222/KHDLUD_NHOM1/blob/main/Report_KHDLUD_NHOM1.ipynb) này 
 
 Kế hoạch phân chia công việc của nhóm (sẽ được cập nhật trước mỗi tuần làm việc của nhóm để các bạn trong nhóm và Thầy có tham chiếu) trên file README này 
 
