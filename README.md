@@ -9,6 +9,4 @@ Thông tin các thành viên trong nhóm
 Trong đồ án này, nhóm tìm hiểu và cài đặt lại một [phương pháp giải quyết đã có](https://www.kaggle.com/code/andkul/deep-lstm-to-predict-rainfall) (đứng thứ 1) cho bài toán [How Much Did It Rain](https://www.kaggle.com/c/how-much-did-it-rain-ii) trên Kaggle. 
 Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link](https://github.com/thainguyen222/KHDLUD_NHOM1/blob/main/Report_KHDLUD_NHOM1.ipynb) này 
 
-Kế hoạch phân chia công việc của nhóm (sẽ được cập nhật trước mỗi tuần làm việc của nhóm để các bạn trong nhóm và Thầy có tham chiếu) trên file README này 
-
-
+Kế hoạch phân chia công việc của nhóm thông qua [link](https://docs.google.com/spreadsheets/d/1FguyZ20RIyjhaFmaqdTNhn6xAX--IwD6QrC00v7xmnY/edit#gid=0)
